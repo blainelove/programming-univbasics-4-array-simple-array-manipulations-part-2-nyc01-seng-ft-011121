@@ -9,5 +9,5 @@ def using_insert(array, element)
 end
 
 def using_uniq(array, array2)
-  array2 = array.uniq()
+  array2 = array.uniq
 end
